@@ -16,7 +16,7 @@ DE 学院
 
 ## 前端工具
 
-- [ ] [DE](http://de.dccecc.com/)
+- [ ] [DE](https://github.com/dccecc/edu)
 
 ## 网络相关
 
